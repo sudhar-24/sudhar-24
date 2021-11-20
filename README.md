@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sudharshan
 - 👀 I’m interested in Python and JavaScript
 - 🌱 I’m currently learning JavaScript & Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Frontend Web Development Projects
 - 📫 How to reach me sudharlucks@gmail.com
 
 <!---
